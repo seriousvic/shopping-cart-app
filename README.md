@@ -1,2 +1,2 @@
 # shopping-cart-app
-# resume project work in progress
+resume project work in progress
