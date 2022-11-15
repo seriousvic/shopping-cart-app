@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Cracking the Coding Interview",
+      "price": 34.99,
+      "imgUrl": "/imgs/cracking_the_coding_interview.jpg"
+    },
+    {
+      "id": 2,
+      "name": "GeForce RTX 4090",
+      "price": 1599,
+      "imgUrl": "/imgs/geforce_rtx_4090.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hunter X Hunter Manga",
+      "price": 9.99,
+      "imgUrl": "/imgs/hunter_x_hunter_manga.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Toyota GR86",
+      "price": 32000,
+      "imgUrl": "/imgs/toyota_gr86.jpg"
+    }
+  ]
